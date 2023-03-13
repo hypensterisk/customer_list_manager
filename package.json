@@ -2,7 +2,7 @@
   "name": "customer_list_manager",
   "version": "1.0.0",
   "description": "Simple App For Managing Customer",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
