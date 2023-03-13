@@ -1,14 +1,15 @@
 {
   "name": "customer_list_manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple App For Managing Customer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "hypensterisk",
+  "license": "MIT",
   "devDependencies": {
     "parcel": "^2.8.3"
   }
